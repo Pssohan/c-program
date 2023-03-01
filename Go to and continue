@@ -1,0 +1,20 @@
+#include<studio.h>
+Void main()
+{
+int i;
+Print:
+Printf("%d",i);
+i++;
+if(i<=10)
+Goto print;
+}
+Printf("/n/n");
+for(i=1i<=10;i++)
+{
+If(i==5)
+{
+Continue;
+Printf("%d",i);
+}
+}
+
